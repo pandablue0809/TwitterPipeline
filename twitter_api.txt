@@ -1,0 +1,18 @@
+1. API Key
+Save your Twitter API key here.
+
+2. API Key Secret
+Save your Twitter API key secret here.
+
+3. Bearer Token
+Save your Twitter Bearer Token here.
+
+4. Access Token
+Save your Twitter Access Token here.
+
+5. Access Token Secret
+Save your Twitter Access Token Secret here.
+
+6. Airflow Credentials
+username: Save your Username
+password: Save your Password
